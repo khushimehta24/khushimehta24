@@ -41,18 +41,18 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://www.youtube.com/watch?v=AaCgydeMu64)
+<!-- - [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://www.youtube.com/watch?v=AaCgydeMu64)
 - [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://www.youtube.com/watch?v=Pqa55L8Yjvw)
 - [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/watch?v=fSsfuyRgCZI)
 - [STACKr News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/watch?v=zt6uMtxrq8M)
-- [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ)
+- [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
+5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
 </details>

@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left"  src="https://github-readme-stats.khushimehta24.ML_tasks/api?username=khushimehta24&show_icons=true&hide_border=true" />
+<img align="center"  alt="Khushi Mehta" width="45%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=khushimehta24&amp;show_icons=true&amp;locale=en" style="max-width: 100%>
 
 </details>
 

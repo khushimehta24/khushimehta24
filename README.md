@@ -39,7 +39,8 @@
 <details>
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
-<img align="center"  alt="Khushi Mehta" width="45%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=khushimehta24&amp;show_icons=true&amp;locale=en" style="max-width: 100%>
+<!-- <img align="center"  alt="Khushi Mehta" width="45%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=khushimehta24&amp;show_icons=true&amp;locale=en" style="max-width: 100%> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushimehta24&amp;show_icons=true&amp;locale=en)
 
 </details>
 

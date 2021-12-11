@@ -38,6 +38,9 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushimehta24&amp;show_icons=true&amp;locale=en)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=khushimehta24&amp;theme=white&amp;hide_border=true&amp;stroke=0000&amp;background=#ffffff)
+
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=khushimehta24&amp;show_icons=true&amp;locale=en&amp;layout=compact)
 
 
 

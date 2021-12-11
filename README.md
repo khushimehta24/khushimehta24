@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.khushimehta24.vercel.app/api?username=khushimehta24&show_icons=true&hide_border=true" />
+  <img align="left"  src="https://github-readme-stats.khushimehta24.ML_tasks/api?username=khushimehta24&show_icons=true&hide_border=true" />
 
 </details>
 

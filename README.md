@@ -45,6 +45,6 @@
 
 
 [twitter]: https://twitter.com/kiki_mehta24
-[instagram]: https://www.instagram.com/khushi.mehta._/?hl=en
+[instagram]: https://www.instagram.com/kikimehta24/?hl=en
 [linkedin]: https://www.linkedin.com/in/khushi-mehta-290b80212/
 

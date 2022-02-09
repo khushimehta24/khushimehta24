@@ -1,6 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" height="155px" width='155px'/></a>
-
+<p>
+<p href="#" align='center'><img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" height="155px" width='155px'/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khushi Mehta</h1>
+</p>
 
 
 <h2 align='left'> 🙋‍♀️About Me </h2>

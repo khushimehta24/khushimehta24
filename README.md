@@ -57,11 +57,11 @@
 
 ## 📊 My Github Stats
 <p align="left">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khushi Mehta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khushimehta24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="#">
+        <img alt="Khushi Mehta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khushimehta24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Khushi Mehta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khushimehta24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Khushi Mehta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushimehta24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="Khushi Mehta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khushimehta24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="Khushi Mehta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushimehta24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -69,7 +69,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Khushi Mehta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khushimehta24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Khushi Mehta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khushimehta24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -84,4 +84,4 @@
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=khushimehta24">
 </a> -->
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/khushimehta24?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="#"><img src="https://img.shields.io/github/followers/khushimehta24?label=Followers&style=social" alt="GitHub Badge"></a>

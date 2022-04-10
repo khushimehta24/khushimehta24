@@ -6,7 +6,7 @@
 
 <h2 align='left'> 🙋‍♀️About Me </h2>
 
-- 🔭 I’m currently in **2nd Year Computer Engineering** at **[Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/)**
+- 🔭 I’m currently in **2nd Year Computer Engineering Student** at **[Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/)**
 
 - 🌱 I’m currently learning **AI ML**
 

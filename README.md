@@ -73,15 +73,3 @@
 
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/khushi-mehta-290b80212/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/kikimehta24/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
-## ❤ Views and Followers
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=khushimehta24">
-</a> -->
-<a href="#"><img src="https://img.shields.io/github/followers/khushimehta24?label=Followers&style=social" alt="GitHub Badge"></a>

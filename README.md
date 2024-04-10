@@ -69,7 +69,7 @@
 <br/>
 <br/>
 
-<a href="#"><img alt="Khushi Mehta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khushimehta24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="#"><img alt="Khushi Mehta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khushimehta24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> --!>
 
 <br/>
 
